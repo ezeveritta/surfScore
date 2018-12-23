@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ezeveritta/surfScore/issues"
   },
-  "homepage": "https://github.com/ezeveritta/surfScore#readme"
+  "homepage": "https://github.com/ezeveritta/surfScore#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
 }
