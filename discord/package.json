@@ -1,0 +1,22 @@
+{
+  "name": "surfrecords",
+  "version": "0.0.1",
+  "description": "world records de surf linear en ksf y momentum mod",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Test: start, hello damaa!\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezeveritta/surfScore.git"
+  },
+  "keywords": [
+    "discordbot"
+  ],
+  "author": "Ezequiel E. Vera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezeveritta/surfScore/issues"
+  },
+  "homepage": "https://github.com/ezeveritta/surfScore#readme"
+}
